@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FoodZone/static/css/main.98ead7d7.css",
+    "main.js": "/FoodZone/static/js/main.26c4276c.js",
+    "index.html": "/FoodZone/index.html",
+    "main.98ead7d7.css.map": "/FoodZone/static/css/main.98ead7d7.css.map",
+    "main.26c4276c.js.map": "/FoodZone/static/js/main.26c4276c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ead7d7.css",
+    "static/js/main.26c4276c.js"
+  ]
+}
